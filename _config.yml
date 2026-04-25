@@ -22,7 +22,7 @@ title: Critical AI Reading Group
 email: setsuko_yokoyama@sutd.edu.sg
 description: This website chronicles the Critical AI Reading Group activities at Singapore University of Technology and Design.
 baseurl: "/critical-ai-reading-group"
-url: "http://localhost:4000"
+url: "https://syokoyams.github.io"
 #twitter_username: jekyllrb
 #github_username:  jekyll
 
