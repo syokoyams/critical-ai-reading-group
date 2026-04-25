@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-![Critical AI Reading Group Team](/critical-ai-reading-group/assets/team.jpg)
+![Critical AI Reading Group Team](/assets/team.jpg)
 
 The Critical AI Reading Group at Singapore University of Technology and Design (SUTD) invites students, faculty members, and staff on campus to co-explore scholarship on artificial intelligence from humanities, arts, and social sciences (HASS) perspectives. We are particularly interested in cross-examining emerging discourses from our unique vantage points that are rooted in both lived experiences and academic subject expertise, including, but not limited to, ethics of care, language diversity, accessibility, urban planning and sustainability, history of technology, applied economics, and labor relations.
 

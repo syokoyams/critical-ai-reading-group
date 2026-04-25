@@ -17,7 +17,7 @@ Here are the readings suggested by speakers on the "Ethics of Care in the Age of
 You can find the PDF copies from here: [https://bit.ly/AIForesight2025](https://bit.ly/AIForesight2025). 
 
 
-![AI Foresight Pre-Conference Session flyer](/critical-ai-reading-group/assets/2025-09-24-flyer.png)
+![AI Foresight Pre-Conference Session flyer](/assets/2025-09-24-flyer.png)
 
 ## Ethics of Care in the Age of AI Panel
 
@@ -29,7 +29,7 @@ A bit more about the conference's panel in question: it was organized in respons
 
 To address such uneven distribution of socioeconomic benefits of emerging technologies, he urged conference participants to rethink empowerment beyond the superficial improvement of AI-enabled products and services under the banner of “ethical design.” Instead, he advocated for a rights-based approach that cross-examines AI’s ideological foundations and challenges the geopolitical conditions that continue to subject the Global South to resource extraction. Otherwise, AI, as it currently stands, extends colonial dynamics of the previous century, Dibya concluded.
 
-![Vasundhra Dahiya](/critical-ai-reading-group/assets/2025-09-24-conference-vasundhra.jpg)
+![Vasundhra Dahiya](/assets/2025-09-24-conference-vasundhra.jpg)
 <p style="text-align: center; color: gray;"><em>Vasundhra Dahiya sharing her community-based research methodologies.</em></p>
 
 **[Vasundhra](https://scholar.google.com/citations?user=cFmUc3YAAAAJ&hl=en)** discussed her work as a Dalit feminist scholar in the AI ethics space and the reading group she co-founded with Dibya, Lavanya, and Tushar— called ["Critical Lens on AI in/from the Majority World(s) (CLAIM)"](https://ai-criticality.net)—as an interpretive community attentive to the majority world's sociocultural contexts. Drawing from her research on AI therapy chatbots, she underscored how situated thinking shapes algorithmic visions of emotional care and mental well-being. Vasundhra noted how discussions of caste are often ignored, even in the responsible AI discourse, resulting in omission of crucial design considerations for historically marginalized communities. As a consequence, she noted, AI applications and policies end up reproducing and amplifying caste biases socially and algorithmically.
@@ -37,14 +37,14 @@ To address such uneven distribution of socioeconomic benefits of emerging techno
 Grounding her scholarship and advocacy work in the tradition of [B. R. Ambedkar](https://en.wikipedia.org/wiki/B._R._Ambedkar)—jurist, economist, social reformer, and author of <em>Annihilation of Caste</em> (1936)—Vasundhra emphasized the need to localize AI ethics discourse in the lived realities of her community. For her, AI systems need to be not only technologically sound but also socially just.
 
 ### Care Principles, Kampung Spirits, and Acessibility in Singapore
-![Jennifer Ang](/critical-ai-reading-group/assets/2025-09-24-conference-jennifer.jpg)
+![Jennifer Ang](/assets/2025-09-24-conference-jennifer.jpg)
 <p style="text-align: center; color: gray;"><em>Jennifer Ang offered four types of care principles we could adopt.</em></p>
 
 **[Jennifer](https://www.suss.edu.sg/academics/schools-college/faculty-listing/detail/jennifer-ang)** presented her research on the ["Southeast Asia Neighborhoods (SEANNET) Collective,"](https://seannet.org/) where she examines the effects of gentrification and technologization in communities in Singapore, including Bukit Merah and Punggol. Speaking from her expertise in philosophy, she introduced four care principles—abandonment, repurposing, repair, and maintenance—as conceptual tools for reimagining our relationship with AI. Together, noted Jennifer, these principles offer a critical lens for assessing Smart Nation initiatives. She observed that technological “repairs” often miss the mark when they assume that technology can care for people. Instead, she emphasized the importance of care practices that go beyond efficiency and convenience: caring for older residents amid redevelopment pressures, caring for one another through kampung spirit, and caring for the broader community as exemplified by cleaners and other essential workers. Jennifer urged for an approach to AI that supports and strengthens human relationships rather than replacing them.
 
 Lastly, yours truly presented a literary history of speech-to-text care labor as a way to rethink current speech-AI designs that are predominantly modeled on business transactions. Drawing from her research on American poet Robert Frost—particularly his efforts to challenge bigoted characterizations of dialect through his art of versification—I demonstrated that speech-to-text conversion has long involved forms of editorial care. This history, I argued, complicates contemporary portrayals of data-annotation work as menial labor. I also discussed how I am  planning to translate these humanities-driven insights into collaboration with speech-to-text interpreters in Singapore. As access-service providers, interpreters at organizations such as Equal Dreams and the Singapore Association for the Deaf have expressed concerns about being replaced by AI. By foregrounding the interpretive, relational, and community-sustaining dimensions of their work, I hope to repurpose AI to support—and not supersede—the tightly knit and vibrant disability community in Singapore.
 
-![Alastair Gornall](/critical-ai-reading-group/assets/2025-09-24-conference-alastair.jpg)
+![Alastair Gornall](/assets/2025-09-24-conference-alastair.jpg)
 <p style="text-align: center; color: gray;"><em>Alastair Gornall, our panel's co-chair, moderating the Q&A session. Dibya is in the background, chiming in via Zoom.</em></p>
 
 ## AI Foresight?

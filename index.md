@@ -2,4 +2,4 @@
 layout: home
 ---
 
-![Critical AI Reading Group](/critical-ai-reading-group/assets/banner.png) 
+![Critical AI Reading Group](/assets/banner.png) 

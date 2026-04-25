@@ -19,7 +19,7 @@ Here are my rough notes from the two-day events, highlighting some of the schola
 - **[Bernard Dionysius Geoghegan](https://blogs.ntu.edu.sg/aimeetshumanities/speakers/bernard-dionysius-geoghegan-2/)** — the commons, structuralism, latency, and creativity to think beyond the human/AI dichotomy
 - **[Tobias Rees](https://www.ntu.edu.sg/hass/news-events/news/detail/shape-x-stem-talk-series--featuring-dr-tobias-rees)** — AI redefining the historical characterization of machines; creative and speculative potentials of small models
 
-![AI Meets Humanities Workshop](/critical-ai-reading-group/assets/2025-11-20-ai-meets-humanities.jpg)
+![AI Meets Humanities Workshop](/assets/2025-11-20-ai-meets-humanities.jpg)
 <p style="text-align: center; color: gray;"><em>A group picture before we headed over to dinner in the city center. Especially grateful to the main organizers Li Nguyen and Thao Phan (seen here in matching outfits in the center), as well as a team of graduate students, for nourishing our bodyminds. Image shared here in courtesy of NTU.</em></p>
 
 ## p.s.
